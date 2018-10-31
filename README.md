@@ -5,7 +5,7 @@ Quando a classe é instanciada, já é realizado o cálculo, caso queira utiliza
 
 
 Funções da classe
-getDiffSecond()//Retorna inteiro somente o diferencial das datas em segundo(s)
+getDiffSecond()//Retorna inteiro somente o diferencial das datas em segundo(s)\n
 getDiffMinute()//Retorna inteiro somente o diferencial das datas em minuto(s)
 getDiffHour()//Retorna inteiro somente o diferencial das datas em hora(s)
 getDiffDay()//Retorna inteiro somente o diferencial das datas em dia(s)
